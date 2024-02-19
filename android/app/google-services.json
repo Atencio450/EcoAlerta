@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404766482833",
+    "project_id": "ecoalerta-feb23",
+    "storage_bucket": "ecoalerta-feb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404766482833:android:745dc92df0ca786fe13a30",
+        "android_client_info": {
+          "package_name": "com.example.eco_alerta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Q7D4fNCKqksPr2RBq0hzvdFRqOXIaJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
